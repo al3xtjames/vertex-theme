@@ -509,6 +509,7 @@ StScrollBar {
 .popup-menu-ornament {
   text-align: right;
   margin-left: 10px;
+  height: 0px;
   width: 16px; }
 
 .popup-menu-boxpointer {
@@ -529,7 +530,7 @@ StScrollBar {
 
 .popup-separator-menu-item {
   height: 2px;
-  margin: 10px 0px;
+  margin: 0px;
   background-color: transparent;
   border: none;
   border-image: url("assets/menu/menu-separator.svg") 1 1 1 1; }
