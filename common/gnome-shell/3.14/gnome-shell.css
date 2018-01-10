@@ -21,7 +21,7 @@
 
 /* default text style */
 stage {
-    font-family: "Cantarell";
+    font-family: "Futura Bk bt", "Cantarell";
     font-size: 9pt;
     color: white;
 }
@@ -66,7 +66,7 @@ stage {
 
 .dash-label,
 .window-caption,
-.switcher-list, 
+.switcher-list,
 .app-well-app > .overview-icon,
 .show-apps > .overview-icon,
 .grid-search-result .overview-icon {
